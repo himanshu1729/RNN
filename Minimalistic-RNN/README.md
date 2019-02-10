@@ -8,7 +8,7 @@ Inspired from Andrej Karpathy's min-char-rnn:
 
 [Min-Char-RNN by Andrej-Karpathy](https://gist.github.com/karpathy/d4dee566867f8291f086)
 
-The original structure of the code is retained.
+The original structure of the code from Karpathy is retained.
 
 This is not a very good model. This is just for understanding the nuts and bolts of RNN.
 A better model is LSTM Networks. An excellent read for LSTM can be found below:
