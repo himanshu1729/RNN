@@ -2,11 +2,9 @@ Minimal character-based language model learning with RNNs.
 
 Inspired from Andrej Karpathy's min-char-rnn:
    
-    <a href="https://www.youtube.com/watch?v=yCC09vCHzF8&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=10"> CS231N Winter 2016 Lecture 11</a>
-    
-    [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-
-    [Min-Char-RNN by Andrej-Karpathy](https://gist.github.com/karpathy/d4dee566867f8291f086)
+[CS231N Winter 2016 Lecture 11](https://www.youtube.com/watch?v=yCC09vCHzF8&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=10")
+[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+[Min-Char-RNN by Andrej-Karpathy](https://gist.github.com/karpathy/d4dee566867f8291f086)
 
 The original structure of the code is retained.
 
